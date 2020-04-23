@@ -1,0 +1,23 @@
+{
+  "name": "precios_acciones",
+  "version": "1.0.0",
+  "description": "Tomar datos de Bolsa ",
+  "main": "precios_acciones.js",
+  "scripts": {
+    "test": "node precios_acciones.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustin94/BYMA_precios_acciones.git"
+  },
+  "author": "Agustin Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustin94/BYMA_precios_acciones/issues"
+  },
+  "homepage": "https://github.com/agustin94/BYMA_precios_acciones#readme",
+  "dependencies": {
+    "async-retry": "^1.3.1",
+    "puppeteer": "^3.0.1"
+  }
+}
